@@ -1,0 +1,6 @@
+---
+:sources:
+  :control:
+    remote: 'https://github.com/ndouba2/projet.git'
+    basedir: '/etc/puppetlabs/code/environments'
+    prefix: false
